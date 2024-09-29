@@ -1,0 +1,3 @@
+* 1       Give me the prompt for this image
+
+* 2      Suggest me a youtube thumbnail idea for this title " How To Install Kali Linux In Virtual Box 2024"
